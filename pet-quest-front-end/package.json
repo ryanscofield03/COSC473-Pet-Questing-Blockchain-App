@@ -1,0 +1,36 @@
+{
+  "name": "pet-quest-front-end",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^2.10.8",
+    "@cosmjs/cosmwasm-stargate": "^0.33.1",
+    "@cosmjs/stargate": "0.28.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@types/node": "22.15.18",
+    "@types/react": "19.1.4",
+    "@types/react-dom": "19.1.5",
+    "cosmjs-types": "0.4.1",
+    "eslint": "9.26.0",
+    "eslint-config-next": "15.3.2",
+    "framer-motion": "^12.12.1",
+    "next": "15.3.2",
+    "rc-util": "^5.38.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-error-boundary": "^6.0.0",
+    "secretjs": "^1.15.1",
+    "typescript": "5.8.3"
+  },
+  "devDependencies": {
+    "@keplr-wallet/types": "0.11.51"
+  }
+}
