@@ -6,7 +6,7 @@ The rest of this README contains a video demo, and then the setup and instructio
 ## Demo
 
 <img width="3246" height="1974" alt="image" src="https://github.com/user-attachments/assets/95ad1236-1646-4527-adaa-c91b4bdbcac5" />
-VIDEO DEMO TOOD - need to fix newly found issue with wallet
+VIDEO DEMO TODO - need to fix newly found issue with wallet
 
 ## Installation and running the application
 
