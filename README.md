@@ -3,6 +3,11 @@
 Pet Questing dApp using the Secret Network to create pets, quest them, upgrade them, and battle other pets.
 The rest of this README contains a video demo, and then the setup and instructions for the application. 
 
+## Demo
+
+<img width="3246" height="1974" alt="image" src="https://github.com/user-attachments/assets/95ad1236-1646-4527-adaa-c91b4bdbcac5" />
+VIDEO DEMO TOOD - need to fix newly found issue with wallet
+
 ## Installation and running the application
 
 The application has already been configured to run after cloning the repository, however, 
